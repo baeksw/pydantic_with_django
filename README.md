@@ -1,0 +1,1 @@
+# pydantic_with_django
